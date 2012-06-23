@@ -1,4 +1,4 @@
 ---
 :tddium:
   :test_pattern:
-    - test/**/*.rb
+    - test/test_*.rb
